@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Jyothi Sri Lakshmi Kuna
 
-<!--
-**JyothiSriLakshmi-1305/JyothiSriLakshmi-1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JyothiSriLakshmi-1305/JyothiSriLakshmi-1305/main/contributor%20logo.jpeg" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+🎓 BTech AI & ML Student  
+🌱 Learning Web Development & Open Source  
+🚀 Passionate about technology and real-world solutions  
+
+---
+
+## 🛠 Skills
+
+- Python  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+
+---
+
+## 🤝 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jyothi-sri-lakshmi/)
+- 🐙 [GitHub](https://github.com/JyothiSriLakshmi-1305)
